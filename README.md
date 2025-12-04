@@ -13,11 +13,11 @@
 <img width="6000" height="3375" alt="13" src="https://github.com/user-attachments/assets/2c13684d-aa05-4583-ac4c-cd438f5b292d" />
 
 # Contribution To Repository 🐣
-I welcome contributions from developers interested in improving or expanding this project! Contributions can include new features, bug fixes, optimizations, or documentation improvements.
+I welcome contributions from developers interested in improving or expanding this project! Contributions can include new features ✨, bug fixes 🐞, optimizations 🔧, or documentation improvements 📚.
 
 To contribute:
 - Fork the repository to create your own working copy.
 - Submit a pull request with your proposed changes.
 - Report issues or suggest enhancements via the Issues tab.
 
-By contributing, you help ensure the project continues to evolve and improve. I appreciate your input and collaboration!
+By contributing, you help ensure the project continues to evolve and improve 🏔️. I would appreciate your input and collaboration!

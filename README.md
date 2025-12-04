@@ -1,7 +1,6 @@
 # DonDonDucky
 <img width="6000" height="3375" alt="1" src="https://github.com/user-attachments/assets/99c671e9-bcb7-459c-bab0-6a24e4286c50" />
 <img width="6000" height="3375" alt="2" src="https://github.com/user-attachments/assets/5ef1f36f-8135-4f97-8e14-b720d3f2d324" />
-<img width="6000" height="3375" alt="3" src="https://github.com/user-attachments/assets/a10352a4-af04-460a-8e4a-43466c241e6e" />
 <img width="6000" height="3375" alt="4" src="https://github.com/user-attachments/assets/6fc81b97-2789-4f96-a39a-ca755161eb37" />
 <img width="6000" height="3375" alt="5" src="https://github.com/user-attachments/assets/a8a79af6-f459-4ffe-bb1f-d9c7136e1007" />
 <img width="6000" height="3375" alt="7" src="https://github.com/user-attachments/assets/00c12f3e-de02-4270-bd95-947bb370a287" />
